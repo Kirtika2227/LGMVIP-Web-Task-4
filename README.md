@@ -8,3 +8,6 @@ Features
 -> Clear button to reset the display.
 
 -> Responsive design for a user-friendly experience.
+
+![image](https://github.com/Kirtika2227/LGMVIP-Web-Task-4/assets/136061745/5ec2816e-0de6-4776-8c58-9bcc52631b8a)
+
